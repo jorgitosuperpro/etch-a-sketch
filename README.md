@@ -3,4 +3,6 @@ Technologies used in the creation of the app were: HTML, CSS and JS.
 Credits to The Odin Project for accompanying me through the making of this project.
 
 7th of April, 2024 - Grid created, hovering effect and clear button added
+
+26th of April, 2024 - Changeable grid option, and different colors.
 .    
